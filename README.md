@@ -41,5 +41,11 @@ Python day3.py
 
 The raw dataset EV_Dataset.csv is not included in this repository due to GitHub file size limits. To replicate this project, please add your dataset to Data/EV_Dataset.csv before running the scripts.
 
+## 📊 Dashboard
+
+![EV Infrastructure Dashboard](Outputs/Dashboard.png)
+
+Interactive analysis of state-wise EV growth vs charging station gap for 2026.
+
 
 
