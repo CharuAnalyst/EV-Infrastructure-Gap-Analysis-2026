@@ -43,7 +43,7 @@ The raw dataset EV_Dataset.csv is not included in this repository due to GitHub 
 
 ## 📊 Dashboard
 
-![EV Infrastructure Dashboard](EV_Dashboard_Screenshot.png)
+![EV Infrastructure Dashboard](Outputs/EV_Dashboard_Screenshot.png)
 
 Interactive analysis of state-wise EV growth vs charging station gap for 2026.
 
